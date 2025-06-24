@@ -1,0 +1,10 @@
+torch>=1.12.0
+torchvision>=0.13.0
+mediapipe==0.10.15
+opencv-python
+numpy
+transformers>=4.30.0
+pyvirtualcam>=0.13.0
+PySimpleGUI
+requests>=2.25.1
+Pillow>=8.0.0
